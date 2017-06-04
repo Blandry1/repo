@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Unity\Repos\Lazer Defender\Assets\Scripts\ScoreKeeper.cs">
+    <Files>
+      <File FileName="..\Unity\Repos\Lazer Defender\Assets\Scripts\ScoreKeeper.cs" Line="12" Column="3" />
+      <File FileName="..\Unity\Repos\Lazer Defender\Assets\Entities\Enemies\EnemyBehaviour.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

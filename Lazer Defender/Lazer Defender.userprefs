@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Shredder.cs">
+    <Files>
+      <File FileName="..\Block Breaker\Block Breaker.sln" Line="1" Column="1" />
+      <File FileName="..\Block Breaker\Assets\Scripts\Paddle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Entities\Player\PlayerController.cs" Line="56" Column="41" />
+      <File FileName="Assets\Entities\Enemies\EnemyBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Entities\EnemyFormation\EnemySpawner.cs" Line="26" Column="108" />
+      <File FileName="Assets\Entities\EnemyFormation\Position.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreKeeper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Shredder.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
